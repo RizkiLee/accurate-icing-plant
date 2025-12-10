@@ -4,15 +4,16 @@
       "updates": [
         {
           "version": "1.525",
-          "update_link": "https://github.com/RizkiLee/accurate-icing-plant/raw/refs/heads/main/accurate-ext.icing%201.525.xpi"
+          "update_link": "https://raw.githubusercontent.com/RizkiLee/accurate-icing-plant/refs/heads/main/accurate-ext.icing%201.525.xpi"
         },
         {
           "version": "1.524",
-          "update_link": "https://github.com/RizkiLee/accurate-icing-plant/raw/refs/heads/main/accurate-ext.icing%201.524.xpi"
+          "update_link": "https://raw.githubusercontent.com/RizkiLee/accurate-icing-plant/refs/heads/main/accurate-ext.icing%201.524.xpi"
         }
       ]
     }
   }
 
 }
+
 
