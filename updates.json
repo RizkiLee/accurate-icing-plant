@@ -1,0 +1,16 @@
+{
+  "addons": {
+    "@accurate-ext-plant.icing-re": {
+      "updates": [
+        {
+          "version": "1.525",
+          "update_link": ""
+        },
+        {
+          "version": "1.524",
+          "update_link": ""
+        }
+      ]
+    }
+  }
+}
